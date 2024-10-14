@@ -3,3 +3,5 @@
 
 # Source and output files
 /*.csv
+/*.txt
+/*.xlsx
